@@ -46,7 +46,7 @@ Permitir a los estudiantes practicar los fundamentos de Kotlin y Android mediant
 
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguaje:** Kotlin  
-- **IDE:** Android Studio  
+- **IDE:** IntelliJ IDEA  
 - **Colecciones:** MutableList  
 - **UI:** TextView + Botones (simulación de consola)  
 - **Logs:** Registro en archivo de texto  
