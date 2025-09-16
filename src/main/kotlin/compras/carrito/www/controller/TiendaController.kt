@@ -66,4 +66,7 @@ class TiendaController {
             println("Producto no encontrado en carrito")
         }
     }
+
+    fun productosRef(): MutableList<Producto> = productos
+    fun carritoRef(): Carrito = carrito
 }

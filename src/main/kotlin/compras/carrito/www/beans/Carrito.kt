@@ -43,4 +43,8 @@ class Carrito {
     }
 
     fun total(): Double = items.sumOf { it.subtotal() }
+
+
+fun contieneProducto(idProducto: Int): Boolean =
+    items.any { it.producto.id == idProducto }
 }
