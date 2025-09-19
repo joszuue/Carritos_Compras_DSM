@@ -61,4 +61,64 @@ Este proyecto permite al estudiante:
 - Simular un flujo de compra real con **facturación e inventario**.  
 
 ---
+
+
+---
+
+## 🚀 Funcionalidades
+- **Menú principal** con opciones:
+    1. Agregar producto al carrito
+    2. Ver carrito
+    3. Administración de productos (requiere acceso de administrador)
+    4. Salir
+
+- **Carrito de compras**:
+    - Agregar productos
+    - Eliminar productos
+    - Ver el carrito en tabla formateada
+    - Generar factura con subtotal, IVA (13%) y total
+
+- **Catálogo de productos** inicial:
+    - 🍎 Manzana (stock: 10)
+    - 🥛 Leche (stock: 5)
+    - 🍞 Pan (stock: 8)
+
+- **Administración** (solo admin):
+    - Permite gestionar productos y stock
+    - Para tener acceso al admin la contraseña es: admin123
+
+- **Colores ANSI en consola** para mejorar la experiencia visual.
+
+---
+
+- 🛠️ Requisitos
+
+Kotlin 1.9+
+
+JDK 17 o superior
+
+IntelliJ IDEA (recomendado)
+
+## ▶️ Cómo ejecutar
+
+- A continuación se muestra un ejemplo de la ejecución del proyecto
+
+- Clonar el repositorio
+- Utilizando Intellij IDEA...
+
+```bash
+git clone https://github.com/joszuue/Carritos_Compras_DSM.git
+cd Carritos_Compras_DSM
+
+╔══════════════════════╗
+║     MENÚ PRINCIPAL   ║
+╠══════════════════════╣
+║ 1. Agregar producto  ║
+║ 2. Ver carrito       ║
+║ 3. Administración    ║
+║ 4. Salir             ║
+╚══════════════════════╝
+Seleccione una opción: 
+
+
   
