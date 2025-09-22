@@ -4,6 +4,14 @@ Este proyecto consiste en el desarrollo de un **sistema de carrito de compras** 
 
 ---
 
+## 📖 Introducción
+
+El presente proyecto tiene como finalidad el desarrollo de un sistema de carrito de compras en Kotlin, orientado a que los estudiantes refuercen conocimientos en programación orientada a objetos (POO), manejo de colecciones y la simulación de una interfaz de consola dentro de Intellij IDEA.
+
+La actividad permite comprender cómo se construye un flujo básico de compra, desde la selección de productos hasta la generación de una factura, aplicando principios de diseño modular, interacción con el usuario y validación de entradas. Con este ejercicio, se fomenta el aprendizaje práctico de conceptos fundamentales de Kotlin y el desarrollo de aplicaciones móviles.
+
+---
+
 ## 🎯 Objetivo
 Permitir a los estudiantes practicar los fundamentos de Kotlin y Android mediante la creación de un sistema sencillo de compras, que incluya interacción con el usuario, validaciones y facturación.
 
@@ -62,9 +70,6 @@ Este proyecto permite al estudiante:
 
 ---
 
-
----
-
 ## 🚀 Funcionalidades
 - **Menú principal** con opciones:
     1. Agregar producto al carrito
@@ -89,9 +94,7 @@ Este proyecto permite al estudiante:
 
 - **Colores ANSI en consola** para mejorar la experiencia visual.
 
----
-
-- 🛠️ Requisitos
+## 🛠️ Requisitos
 
 Kotlin 1.9+
 
@@ -119,6 +122,16 @@ cd Carritos_Compras_DSM
 ║ 4. Salir             ║
 ╚══════════════════════╝
 Seleccione una opción: 
+```
 
+---
+
+# 👥 Integrantes
+- Emilia Eunice Meléndez Barreiro, MB211545
+- César Enrique Regalado Villalta, RV210723
+- Denis Josué Vásquez Rodríguez, VR222731
+- Victor Amilcar Elías Peña, EP171613
+- Jairo Dennis Ramos Jiménez, RJ172021
+- Melissa Vanina López Peña, LP223029
 
   
